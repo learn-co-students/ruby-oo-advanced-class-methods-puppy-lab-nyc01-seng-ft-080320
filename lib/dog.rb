@@ -27,3 +27,6 @@ class Dog
     end
 
 end
+# from the quizz seem relevent to my confusion.
+# In a Car class, in order to access Car.all in #initialize, you would need to use self.class.all, 
+#and then invoke the Car.all method.
